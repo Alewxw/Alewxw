@@ -61,7 +61,6 @@ me = {
       <sub><b> private · bachelor thesis </b></sub>
       <p> App for trainers and gym-goers to track progress, with charts and personalised advice</p>
       <p><code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>React</code> <code>Tailwind</code></p>
-      
     </td>
     <td width="50%" valign="top">
       <h3> <a href="https://github.com/Alewxw/Chess-local.git">♟️ Chess Engine </a></h3>
