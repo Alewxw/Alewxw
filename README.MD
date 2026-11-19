@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Alewxw"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Minut-George-Alexandru&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Student%20%C2%B7%20Tech%20Enthusiast&descSize=24&descAlignY=64" width="100%" alt="Minuț George-Alexandru, Student" /></a>
+  <a href="https://github.com/Alewxw"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Minut%20George-Alexandru&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Student%20%C2%B7%20Tech%20Enthusiast&descSize=24&descAlignY=64" width="100%" alt="Minuț George-Alexandru, Student" /></a>
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+building+GymTracker;%3E+Java+Spring+Boot+Python;%3E+Backend+Dev+in+the+making" width="100%" alt="About me" />
 </p>
 
